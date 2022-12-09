@@ -74,12 +74,14 @@ Construi el archivo main.py con las querys necesarias para obtener dichos result
 
   ![image](https://user-images.githubusercontent.com/111015749/206629620-8a1dd6bc-2bdc-4b77-857f-d4d66ad1e189.png)
 
- API en funcionamiento:
+ **API** en funcionamiento:
  
   ![image](https://user-images.githubusercontent.com/111015749/206629973-6b03af7f-ac74-4ab6-aaa0-5c08723db221.png)
 
-Finalmente levante una imagen de docker de la API con los siguientes comandos en otra terminal del Visual Code:
+Finalmente levante una imagen de ***DOCKER*** de la API con los siguientes comandos en otra terminal del Visual Code:
+  
   *docker build -t first_app:latest .*
+  
   *docker run -p 8080:80  first_app:latest*
   
   ![image](https://user-images.githubusercontent.com/111015749/206630321-90b677a4-2d65-4df3-ad00-23c234e39d89.png)
