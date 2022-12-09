@@ -1,6 +1,6 @@
-# <h1 align=center> ** Proyecto Individual Nro.1 - 
+# <h1 align=center> ** Proyecto Individual Nro.1 - DATA05 **
 
-# <h1 align=center>**`Data Engineering`*</h1>
+# <h1 align=center>**`Data Engineering`*</h1> **
 
 <h1 align=center>María Belén Sendot</h1>
   
@@ -8,7 +8,7 @@
 <img src=https://user-images.githubusercontent.com/111015749/206626200-1577e4a8-be9c-4b91-8cce-d8ad19534399.png height=300>
 </p>
   
-¡Bienvenidos a mi primer proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Engineer***.  
+¡Bienvenidos a mi primer proyecto individual de la etapa de labs! 
 
 <hr>  
 
